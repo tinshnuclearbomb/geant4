@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/trungtinsh/Downloads/geant4-v11.3.2/examples/extended/optical/vitri/cmake_install.cmake",
+		"/Users/trungtinsh/Downloads/geant4-v11.3.2/examples/extended/optical/vitri/OpNovice/cmake_install.cmake",
+		"/Users/trungtinsh/Downloads/geant4-v11.3.2/examples/extended/optical/vitri/OpNovice2/cmake_install.cmake",
+		"/Users/trungtinsh/Downloads/geant4-v11.3.2/examples/extended/optical/vitri/LXe/cmake_install.cmake",
+		"/Users/trungtinsh/Downloads/geant4-v11.3.2/examples/extended/optical/vitri/wls/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

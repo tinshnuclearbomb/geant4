@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/trungtinsh/Downloads/geant4-v11.3.2/examples/extended/optical/wls/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
